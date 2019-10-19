@@ -1,5 +1,5 @@
 body{
-background-color:pink;
+background: pink;
 width: 100%;
 }
 
@@ -20,6 +20,10 @@ h2{
     margin-left: auto;
     margin-right: auto;
     padding: 5px;
+}
+#image{
+   margin-left: 120px;
+   margin-top: 10px;
 }
 
 #currentword{
